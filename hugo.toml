@@ -2,6 +2,7 @@ baseURL = 'https://climbing.uwaterloo.ca/'
 languageCode = 'en-us'
 title = 'UWCC'
 theme = 'paper'
+paginate = 5
 
 
 [params]
@@ -38,3 +39,13 @@ theme = 'paper'
     name = "Events"
     url = "/events/"
     weight = 3
+
+  [[menu.main]]
+    identifier = 'membership'
+	name = 'Membership'
+	url = 'https://warrior.uwaterloo.ca/membership/GetMembershipSummary?membershipProductId=dc3ed568-3fae-41d2-aa32-e4bc5be6dd85'
+	weight = 4
+
+
+[markup.goldmark.renderer]
+  unsafe = true
