@@ -1,4 +1,40 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://climbing.uwaterloo.ca/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'UWCC'
 theme = 'paper'
+
+
+[params]
+  color = 'light'
+
+  instagram = 'uwclimbingclub'
+  # add discord
+  # add buy membership
+
+  # add logo picture
+  avatar = 'logo'
+  name = 'University of Waterloo Climbing Club'
+  bio = 'We like to climb.'
+
+  monoDarkIcon = true
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    url = "/events/"
+    weight = 3
