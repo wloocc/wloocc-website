@@ -1,6 +1,6 @@
 baseURL = 'https://climbing.uwaterloo.ca/'
 languageCode = 'en-us'
-title = 'UWCC'
+title = 'UW Climbing Club'
 theme = 'paper'
 paginate = 5
 
@@ -14,8 +14,6 @@ paginate = 5
   avatar = 'logo'
   name = 'University of Waterloo Climbing Club'
   bio = 'We like to climb.'
-
-  # monoDarkIcon = true
 
 
 [menu]
@@ -41,11 +39,8 @@ paginate = 5
   [[menu.main]]
     identifier = 'membership'
     name = 'Membership'
-    url = 'https://warrior.uwaterloo.ca/membership/GetMembershipSummary?membershipProductId=dc3ed568-3fae-41d2-aa32-e4bc5be6dd85'
-    weight = 4
-    [menu.main.params]
-      newtab = true
-        
+    url = '/membership/'
+    weight = 4 
 
 
 [markup.goldmark.renderer]
