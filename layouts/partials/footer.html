@@ -4,7 +4,7 @@
     {{ site.Title }}
   </div>
 
-  <div>
+  <div id="themeSwitchText">
     Too bright?
   </div>
   <div
@@ -17,10 +17,12 @@
     // dark theme
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '{{ $bg_color }}'.replace(/"/g, '');
+    const themeSwitchText = document.getElementById('themeSwitchText');
     const setDark = (isDark) => {
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
+      themeSwitchText.textContent = isDark ? 'Too dark?' : 'Too bright?';
     };
 
     // init
