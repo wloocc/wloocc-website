@@ -7,7 +7,7 @@
   />
 
   <!-- Title -->
-  <title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ site.Title }}</title>
+  <title>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }} - {{ site.Title }}</title>
 
   <!-- Meta -->
   <meta name="theme-color" />
