@@ -1,10 +1,17 @@
 <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
   <div class="relative z-50 mr-auto flex items-center">
+    {{ if site.Params.logo }}
+    {{ $image := resources.GetMatch site.Params.logo }}
+    <a href="{{ `` | absURL }}">
+      <img src="{{ $image.RelPermalink }}" class="dark:invert" style="height: 3rem !important; width: auto !important; max-width: none !important;">
+    </a>
+    {{ else }}
     <a
       class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
       href="{{ `` | absURL }}"
       >{{ site.Title }}</a
     >
+    {{ end }}
   </div>
 
   <div

@@ -50,6 +50,14 @@
   {{ end }}
   <!---->
 
+  <!-- Logo -->
+  {{ $logo := resources.GetMatch site.Params.logo }}
+  <!---->
+  {{ if $logo }}
+  <link rel="preload" as="image" href="{{ $logo.RelPermalink }}" />
+  {{ end }}
+  <!---->
+
   <!-- Social List -->
   {{ range $.Scratch.Get "social_list" }}
   <link rel="preload" as="image" href="{{ printf `%s.svg` . | absURL }}" />
