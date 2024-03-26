@@ -73,6 +73,7 @@
       <a
         class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
         href="{{ .URL }}"
+        {{ if .Params.newtab }}target="_blank" rel="noopener noreferrer"{{ end }}
         >{{ .Name }}</a
       >
       {{ end }}
