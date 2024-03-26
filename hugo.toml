@@ -15,7 +15,7 @@ paginate = 5
   name = 'University of Waterloo Climbing Club'
   bio = 'We like to climb.'
 
-  monoDarkIcon = true
+  # monoDarkIcon = true
 
 
 [menu]
