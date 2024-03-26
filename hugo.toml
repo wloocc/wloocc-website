@@ -9,10 +9,8 @@ paginate = 5
   color = 'light'
 
   instagram = 'uwclimbingclub'
-  # add discord
-  # add buy membership
+  discord = 'vwwpwvcBXA'
 
-  # add logo picture
   avatar = 'logo'
   name = 'University of Waterloo Climbing Club'
   bio = 'We like to climb.'
