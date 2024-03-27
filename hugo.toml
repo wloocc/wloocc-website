@@ -14,7 +14,7 @@ enableEmoji = true
   discord = 'BZzNzNq5Up'
 
   name = 'Welcome! 👋'
-  bio = "We're the University of Waterloo Climbing Club."
+  bio = "We're the University of Waterloo Climbing Club. Below you can find updates on our events and other club activities. We also post regularly on our Discord and Instragram. If you're interested in joining, check out our membership page!"
 
   logo = 'club_logo.svg'
 
