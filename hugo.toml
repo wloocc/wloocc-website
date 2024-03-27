@@ -3,19 +3,20 @@ languageCode = 'en-us'
 title = 'UW Climbing Club'
 theme = 'paper'
 paginate = 5
+enableEmoji = true
 
 
 [params]
   color = 'light'
+  monoDarkIcon = true
 
   instagram = 'uwclimbingclub'
   discord = 'BZzNzNq5Up'
 
-  avatar = 'logo'
-  name = 'University of Waterloo Climbing Club'
-  bio = 'We like to climb.'
+  name = 'Welcome! 👋'
+  bio = "We're the University of Waterloo Climbing Club."
 
-  logo = 'logo.svg'
+  logo = 'club_logo.svg'
 
 
 [menu]
