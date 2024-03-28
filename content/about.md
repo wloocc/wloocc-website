@@ -10,10 +10,10 @@ We're the University of Waterloo's climbing community. Our goal is to get more p
 ## Get involved
 Our core activity is our weekly meetups, which are open to members and non-members alike. For special events and perks, you can learn more about joining as a member [here](/membership). We also recruit execs every term to run the club, so if you have a vision and you're interested in helping out, stay tuned for announcements about applications.
 
-For a quick overview of upcoming events, check out our [event calendar](/events). We also post about upcoming events on our [home page](/), {{% instagram_link %}}, and {{% discord_link %}}. Our Discord is also a great place to connect with fellow climbers and make plans.
+For a quick overview of upcoming events, check out our [event calendar](/events). We also post about upcoming events on our [home page](/), [Instagram]({{% instagram_link %}}), and [Discord]({{% discord_link %}}). Our Discord is also a great place to connect with fellow climbers and make plans.
 
 ## Get in touch
-If you have questions about anything, feel free to reach out to us on {{% instagram_link %}} or {{% discord_link %}}. You can also email us at [climbingclub.uwaterloo@gmail.com](mailto:climbingclub.uwaterloo@gmail.com) for more official inquiries.
+If you have questions about anything, feel free to reach out to us on [Instagram]({{% instagram_link %}}) or [Discord]({{% discord_link %}}). You can also email us at [climbingclub.uwaterloo@gmail.com](mailto:climbingclub.uwaterloo@gmail.com) for more official inquiries.
 
 
 
