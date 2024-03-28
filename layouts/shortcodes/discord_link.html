@@ -1,0 +1,3 @@
+{{- $default := index site.Params "discord_label" -}}
+{{- $name := or ($.Get "param1") $default -}}
+[{{ $name }}](https://discord.gg/{{ index site.Params "discord" }})

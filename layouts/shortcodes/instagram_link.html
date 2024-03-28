@@ -1,0 +1,3 @@
+{{- $default := index site.Params "instagram_label" -}}
+{{- $name := or ($.Get "param1") $default -}}
+[{{ $name }}](https://instagram.com/{{ index site.Params "instagram" }})
