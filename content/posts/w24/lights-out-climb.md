@@ -1,7 +1,6 @@
 +++
-title = 'Lights Out Climb'
+title = "Lights Out Climb"
 date = 2024-01-29
-draft = false
 tags = ["pac", "events", "w24"]
 +++
 

@@ -1,7 +1,6 @@
 +++
 title = "Girls' Meetup"
 date = 2024-03-25
-draft = false
 tags = ["grr-wat", "events", "w24"]
 +++
 

@@ -12,6 +12,7 @@ enableEmoji = true
 
   instagram = 'wlooclimbingclub'
   discord = 'BZzNzNq5Up'
+  membership_link = 'https://warrior.uwaterloo.ca/membership/GetMembershipSummary?membershipProductId=dc3ed568-3fae-41d2-aa32-e4bc5be6dd85'
 
   name = 'Welcome! 👋'
   bio = "We're the University of Waterloo Climbing Club. Below you can find updates on our events and other club activities. We also post regularly on our Discord and Instragram. If you're interested in joining, check out our membership page!"
