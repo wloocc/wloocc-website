@@ -1,5 +1,5 @@
 +++
-title = 'Weekly Meetups'
+title = "Weekly Meetups"
 date = 2024-01-08
 tags = ["grr-kit", "grr-wat", "pac", "events", "w24"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'End of Term Comp'
+title = "End of Term Comp"
 date = 2024-03-30
 tags = ["pac", "comps", "events", "w24"]
 +++

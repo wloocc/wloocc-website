@@ -1,5 +1,5 @@
 +++
-title = 'Meet the Team'
+title = "Meet the Team"
 date = 2024-02-07
 tags = ["w24"]
 +++

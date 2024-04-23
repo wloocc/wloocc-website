@@ -1,5 +1,5 @@
 +++
-title = 'Gear Workshop'
+title = "Gear Workshop"
 date = 2024-03-17
 tags = ["events", "w24"]
 +++

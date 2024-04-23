@@ -1,5 +1,5 @@
 +++
-title = 'UBS @ Boulderz'
+title = "UBS @ Boulderz"
 date = 2024-02-18
 tags = ["ubs", "comps", "events", "w24"]
 +++

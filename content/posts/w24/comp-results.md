@@ -1,5 +1,5 @@
 +++
-title = 'Comp Results'
+title = "Comp Results"
 date = 2024-04-06
 tags = ["pac", "comps", "events", "w24"]
 +++

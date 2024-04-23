@@ -1,5 +1,5 @@
 +++
-title = 'Reel Rock + Social'
+title = "Reel Rock + Social"
 date = 2024-02-22
 tags = ["events", "w24"]
 +++
