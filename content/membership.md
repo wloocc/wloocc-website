@@ -12,6 +12,6 @@ Previous member benefits have included:
 - Technique workshops and classes
 - Lights-out headlamp climbing at PAC
 
-You can purchase a membership on the Athletics website [here](https://warrior.uwaterloo.ca/membership/GetMembershipSummary?membershipProductId=dc3ed568-3fae-41d2-aa32-e4bc5be6dd85). Happy climbing! 🧗
+You can purchase a membership on the Athletics website [here]({{% membership_link %}}). Happy climbing! 🧗
 
 [^1]: Please note that the Climbing Climb membership is separate from the PAC Climbing Wall membership.
