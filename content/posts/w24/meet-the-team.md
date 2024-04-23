@@ -1,7 +1,6 @@
 +++
 title = 'Meet the Team'
 date = 2024-02-07
-draft = false
 tags = ["w24"]
 +++
 

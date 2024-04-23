@@ -1,7 +1,6 @@
 +++
 title = 'Reel Rock + Social'
 date = 2024-02-22
-draft = false
 tags = ["events", "w24"]
 +++
 

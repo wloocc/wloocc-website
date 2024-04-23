@@ -1,7 +1,6 @@
 +++
 title = 'Gear Workshop'
 date = 2024-03-17
-draft = false
 tags = ["events", "w24"]
 +++
 
