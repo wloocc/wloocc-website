@@ -4,15 +4,16 @@ date = 2024-03-25T16:49:54-04:00
 draft = false
 +++
 
-Want in on climbing workshops, fun events, and exclusive perks 👀? For just **$5** for the term, you can become a member[^1] of the UW Climbing Climb for all of these and more! We're run by volunteers, so all proceeds go directly to things that benefit you (the members)!
+Want in on climbing workshops, fun events, and exclusive perks 👀? For just **$5** for the term, you can become a member[^1] of the UW Climbing Climb for all of these and more!
 
 Previous member benefits have included:
 - Free candy at themed meetups
 - Discounted comp registration prices
 - Technique workshops and classes
 - Lights-out headlamp climbing at PAC
+- Free club stickers
 
-You can purchase a membership on the Athletics website below. Happy climbing! 🧗‍♂️
+We're run by volunteers, so all proceeds go directly to things that make climbing fun for you (the members)!
 
 <a href="{{% membership_link %}}" class="dark:invert" style="display: inline-block; background-color: black; color: white; padding: 15px 25px; font-size: 20px; text-align: center; text-decoration: none; border-radius: 20px;">Buy Membership</a>
 
