@@ -1,7 +1,7 @@
 +++
 title = "Meet the Team"
 date = 2024-02-07
-tags = ["w24"]
+tags = ["execs", "w24"]
 +++
 
 Wait… who’s driving this thing? 🛞
