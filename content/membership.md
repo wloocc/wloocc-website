@@ -15,6 +15,9 @@ Previous member benefits have included:
 
 We're run by volunteers, so all proceeds go directly to things that make climbing fun for you (the members)!
 
-<a href="{{% membership_link %}}" style="display: inline-block; background-color: #EAAB00; color: white; padding: 15px 25px; font-size: 20px; text-align: center; text-decoration: none; border-radius: 20px;">Buy Membership</a>
+<div style="text-align: center; margin-top: 2em;">
+    <a href="{{% membership_link %}}" class="btn" style="background-color: #EAAB00; color: white; font-size: 20px;">Buy Membership</a>
+</div>
+
 
 [^1]: Please note that the Climbing Climb membership is separate from the PAC Climbing Wall membership.
