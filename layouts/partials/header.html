@@ -1,16 +1,12 @@
 <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
   <div class="relative z-50 mr-auto flex items-center">
-    {{ if site.Params.logo }}
     <a href="{{ `` | absURL }}">
-      <img src="{{ site.Params.logo | absURL }}" class="dark:invert" style="height: 3rem !important; width: auto !important; max-width: none !important;">
+      <div style="position: relative; height: 3rem; width: auto;">
+        <img src="{{ site.Params.logo | absURL }}" class="dark:invert" style="position: absolute; top: 0; left: 0; height: 3rem !important; width: auto !important; max-width: none !important;">
+        <img src="{{ site.Params.logo2 | absURL }}" style="position: absolute; top: 0; left: 0; height: 3rem !important; width: auto !important; max-width: none !important;">
+      </div>
+      
     </a>
-    {{ else }}
-    <a
-      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
-      href="{{ `` | absURL }}"
-      >{{ site.Title }}</a
-    >
-    {{ end }}
   </div>
 
   <div
