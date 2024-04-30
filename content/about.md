@@ -13,7 +13,7 @@ Our core activity is our weekly meetups, which are open to members and non-membe
 For a quick overview of upcoming events, check out our [event calendar](/events). We also post about upcoming events on our [home page](/), [Instagram]({{% instagram_link %}}), and [Discord]({{% discord_link %}}). Our Discord is also a great place to connect with fellow climbers and make plans.
 
 ## Get in touch
-If you have questions about anything, feel free to reach out to us on [Instagram]({{% instagram_link %}}) or [Discord]({{% discord_link %}}). You can also email us at [climbingclub.uwaterloo@gmail.com](mailto:climbingclub.uwaterloo@gmail.com) for more official inquiries.
+If you have questions about anything, feel free to reach out to us on [Instagram]({{% instagram_link %}}) or [Discord]({{% discord_link %}}). You can also email us at [climbing.club@uwaterloo.ca](mailto:climbing.club@uwaterloo.ca) for more official inquiries.
 
 
 
