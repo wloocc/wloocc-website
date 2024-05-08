@@ -2,6 +2,7 @@
 title = "Reel Rock + Social"
 date = 2024-02-22
 tags = ["events", "w24"]
+summary = "Join us for a movie night at Princess Cinemas and dinner at Kinton Ramen!"
 +++
 
 Get ready for a movie night with UWCC as we watch Reel Rock 18 at Princess Cinemas on March 7th, 7 pm showtime. 

@@ -2,6 +2,7 @@
 title = "Comp Results"
 date = 2024-04-06
 tags = ["pac", "comps", "events", "w24"]
+summary = "Congratulations to our winners and thank you to everyone who came out to our End of Term Comp!"
 +++
 
 Thank you to everyone who came out to our End of Term Comp. You all crushed it 💪!

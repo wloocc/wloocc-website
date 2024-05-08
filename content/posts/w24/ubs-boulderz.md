@@ -2,6 +2,7 @@
 title = "UBS @ Boulderz"
 date = 2024-02-18
 tags = ["ubs", "comps", "events", "w24"]
+summary = "Join us for our second UBS of the term at Boulderz Climbing Centre Etobicoke!"
 +++
 
 Woah, the second UBS of the term is just around the corner! 👀 Come join the UWaterloo Climbing Club on March 2nd @ Boulderz Climbing Centre Etobicoke. We will be climbing during the 12-3pm time slot. Let’s run this back and crush it one more time. 👊 See you on the mats!
