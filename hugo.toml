@@ -21,8 +21,6 @@ enableEmoji = true
   logo = 'logo.svg'
   logo2 = 'climber.svg'
 
-  author.name = 'UW Climbing Club'
-
 
 [menu]
 
