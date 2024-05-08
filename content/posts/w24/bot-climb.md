@@ -2,6 +2,7 @@
 title = "BoT Climb"
 date = 2024-01-18
 tags = ["pac", "events", "w24"]
+summary = "Join us for a free drop-in climbing session at the PAC Climbing Wall!"
 +++
 
 🧗 Calling all new climbers! This is the perfect opportunity to test the waters! Join our FREE Beginning of Term drop-in climbing session for new climbers at the PAC Climbing Wall on Sunday January 21st from 4-6 pm. 🏔️ Scale new heights and make this semester an adventure from the very start! 🎉

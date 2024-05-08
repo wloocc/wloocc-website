@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2024-03-25T16:49:54-04:00
-draft = false
+summary = 'Learn more about the UW Climbing Club and what we do!'
 +++
 
 ## What we do

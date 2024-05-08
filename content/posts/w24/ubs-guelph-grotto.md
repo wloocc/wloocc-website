@@ -2,6 +2,7 @@
 title = "UBS @ Guelph Grotto"
 date = 2024-01-20
 tags = ["ubs", "comps", "events", "w24"]
+summary = "Join us for the first UBS comp of the term at the Guelph Grotto!"
 +++
 
 Heads up climbers, the first University Bouldering Series comp of the term is coming up soon and signups are open! Come join other UW climbers in representing our school to crush Mac and the others. There are different experience categories so climbers of all levels are welcome!

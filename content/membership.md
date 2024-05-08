@@ -1,7 +1,7 @@
 +++
 title = 'Membership'
 date = 2024-03-25T16:49:54-04:00
-draft = false
+summary = 'Join the UW Climbing Club for exclusive perks and events!'
 +++
 
 Want in on climbing workshops, fun events, and exclusive perks 👀? For just **$5** for the term, you can become a member[^1] of the UW Climbing Climb for all of these and more!

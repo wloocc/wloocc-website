@@ -2,6 +2,7 @@
 title = "Meet the Team"
 date = 2024-02-07
 tags = ["execs", "w24"]
+summary = "Meet the University of Waterloo Climbing Club W24 exec team!"
 +++
 
 Wait… who’s driving this thing? 🛞

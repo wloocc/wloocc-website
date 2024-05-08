@@ -2,6 +2,7 @@
 title = "Lights Out Climb"
 date = 2024-01-29
 tags = ["pac", "events", "w24"]
+summary = "Join us for a night of pseudo-spelunking at the PAC Climbing Wall!"
 +++
 
 Strap on your headlamps, or practice your echolocation, because this Sunday UWaterloo Climbing Club will be climbing in the dark 🦇. 

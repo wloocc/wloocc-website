@@ -2,7 +2,7 @@
 title = "Exec Applications"
 date = 2024-04-23
 tags = ["execs", "s24"]
-weight = 1
+summary = "Join the UWCC exec team for Spring 2024!"
 +++
 
 🧗 Hey climbers! Spring 2024 applications are now open! We are hiring for President, Event Executives, Social Media Managers, and Members at Large. The role responsibilities can be found in the application form. Applications close **April 29th at 11:59PM**. Please note that there is a different form for each role.

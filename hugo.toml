@@ -16,9 +16,12 @@ enableEmoji = true
 
   name = 'Welcome! 👋'
   bio = "We're the University of Waterloo Climbing Club. Below you can find updates on our events and other club activities. We also post regularly on our Discord and Instragram. If you're interested in joining, check out our membership page!"
+  description = "Welcome to the home of the University of Waterloo's climbing community!"
 
   logo = 'logo.svg'
   logo2 = 'climber.svg'
+
+  author.name = 'UW Climbing Club'
 
 
 [menu]
