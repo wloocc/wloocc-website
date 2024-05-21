@@ -1,6 +1,6 @@
 baseURL = 'https://climbing.uwaterloo.ca/'
 languageCode = 'en-us'
-title = 'UW Climbing Club'
+title = 'UWaterloo Climbing Club'
 theme = 'paper'
 paginate = 4
 enableEmoji = true
