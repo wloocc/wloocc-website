@@ -1,5 +1,5 @@
 +++
-title = "End of Term Comp"
+title = "W24 End of Term Comp"
 date = 2024-03-30
 tags = ["pac", "comps", "events", "w24"]
 summary = "Join us for our end-of-term climbing competition at the PAC wall!"

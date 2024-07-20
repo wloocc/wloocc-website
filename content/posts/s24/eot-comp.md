@@ -1,5 +1,5 @@
 +++
-title = "EOT Bouldering Competition"
+title = "S24 EOT Bouldering Competition"
 date = 2024-07-19
 tags = ["s24", "pac", "comps", "events"]
 summary = "Join us for our end-of-term climbing competition at the PAC wall!"
