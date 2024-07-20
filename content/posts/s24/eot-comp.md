@@ -1,6 +1,6 @@
 +++
 title = "EOT Bouldering Competition"
-date = 2024-07-20
+date = 2024-07-19
 tags = ["s24", "pac", "comps", "events"]
 summary = "Join us for our end-of-term climbing competition at the PAC wall!"
 +++
@@ -21,4 +21,3 @@ Club members will receive 2 **raffle entries**, while non-members will receive 1
 Entry fee is $10 for club members, and $15 for other students, no day pass/membership required.
 
 🔗 Sign up and membership links are in our [linktree](https://wloo.cc/links "linktree"). We can't wait to see you on the wall!
-
