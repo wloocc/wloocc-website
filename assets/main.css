@@ -1935,3 +1935,7 @@ article .highlight > div table tr td:last-of-type {
 section p a {
   color: #EAAB00 !important;
 }
+
+img {
+  border-radius: 5px
+}
