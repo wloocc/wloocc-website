@@ -13,3 +13,5 @@ The workshop will be on **July 20th** from **10am-12pm** at the **PAC climbing w
 
 The link to purchase a membership can be found at <https://wloo.cc/links>.
 
+---
+Update! Thanks everyone for coming out! Here's a link to the images from the [workshop](https://drive.google.com/drive/folders/17Dwnc0C5xfYc8YxAdW49Te0eQXL2cZKJ?usp=sharing).
