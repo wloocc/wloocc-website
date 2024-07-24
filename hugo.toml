@@ -21,6 +21,8 @@ enableEmoji = true
   logo = 'logo.svg'
   logo2 = 'climber.svg'
 
+  favicon = 'icon.ico'
+
 
 [menu]
 
