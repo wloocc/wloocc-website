@@ -16,7 +16,10 @@ Test your skills on some brand-new routes designed for climbers of **all levels*
 Club members will receive 2 **raffle entries**, while non-members will receive 1.
 
 📍 Where? **PAC Climbing Wall**
-📆 When? **July 28th**. The first timeslot is from **10:00 - 12:00 pm**.
+📆 When? **July 28th**. 
+
+The first timeslot is from **10:00 - 12:00 pm**.
+The second timeslot is from **12:30pm - 2:30 pm**.
 
 Entry fee is $10 for club members, and $15 for other students, no day pass/membership required.
 
