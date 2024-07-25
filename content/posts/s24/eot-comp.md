@@ -19,6 +19,7 @@ Club members will receive 2 **raffle entries**, while non-members will receive 1
 📆 When? **July 28th**. 
 
 The first timeslot is from **10:00 - 12:00 pm**.
+
 The second timeslot is from **12:30pm - 2:30 pm**.
 
 Entry fee is $10 for club members, and $15 for other students, no day pass/membership required.
