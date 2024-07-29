@@ -5,7 +5,7 @@ tags = ["s24", "pac", "comps", "events"]
 summary = "Results for the S24 end-of-term climbing competition at the PAC wall!"
 +++
 
-Thank you to everyone that came out to the EOT comp! We hope all of you guys had fun. Congratulations to Jane Babiak-Abray, Jasmine Chan, and Peter Wang for topping the charts in our beginner, intermediate and advanced categories! We’ll be contacting you shortly about your well-deserved prizes 🏆.
+Thank you to everyone that came out to the EOT comp! We hope all of you guys had fun. Congratulations to **Jane Babiak-Abray**, **Jasmine Chan**, and **Peter Wang** for topping the charts in our beginner, intermediate and advanced categories! We’ll be contacting you shortly about your well-deserved prizes 🏆.
 
 The full final results are posted below!
 
