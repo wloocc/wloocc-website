@@ -10,7 +10,7 @@ summary = "Join the wloocc exec team for Fall 2024!"
 
 Hey climbers! Here are the descriptions for each of the exec roles we're hiring for. Please note that the applications close on **September 3rd**.
 
-Click [here](https://wloo.cc/apply) to go back to the application form, and click the links below to go to the relevant section of this page!
+Click [here](https://wloo.cc/apply) to the application form, and click the links below to go to each of the role descriptions!
 
 - [President](#president)
 - [Events Lead](#events-lead)
