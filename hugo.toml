@@ -1,6 +1,6 @@
 baseURL = 'https://climbing.uwaterloo.ca/'
 languageCode = 'en-us'
-title = 'UWaterloo Climbing Club'
+title = 'wloocc'
 theme = 'paper'
 pagination.pagerSize = 4
 enableEmoji = true

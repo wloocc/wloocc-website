@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2024-03-25T16:49:54-04:00
-summary = 'Learn more about the UWaterloo Climbing Club and what we do!'
+summary = 'Learn more about the University of Waterloo Climbing Club and what we do!'
 +++
 
 ## What we do
@@ -19,5 +19,5 @@ If you have questions about anything, feel free to reach out to us on [Instagram
 
 <figure>
   <img src="/group_pic.jpeg">
-  <figcaption>UWaterloo Climbing Club members at UBS (W24)</figcaption>
+  <figcaption>Club members at UBS (W24)</figcaption>
 </figure>

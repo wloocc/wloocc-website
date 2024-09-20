@@ -1,10 +1,10 @@
 +++
 title = 'Membership'
 date = 2024-03-25T16:49:54-04:00
-summary = 'Join the UWaterloo Climbing Club for exclusive perks and events!'
+summary = 'Join the University of Waterloo Climbing Club for exclusive perks and events!'
 +++
 
-Want in on climbing workshops, fun events, and exclusive perks 👀? For just **$5** for the term, you can become a member[^1] of the UWaterloo Climbing Climb for all of these and more!
+Want in on climbing workshops, fun events, and exclusive perks 👀? For just **$5** for the term, you can become a member[^1] of the University of Waterloo Climbing Climb for all of these and more!
 
 Previous member benefits have included:
 - Free candy at themed meetups
