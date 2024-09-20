@@ -58,16 +58,17 @@
   {{ end }}
 
   <!-- Disqus -->
-  {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
-  <div class="mt-24" id="disqus_thread"></div>
-  <script>
-    const disqusShortname = '{{ site.DisqusShortname }}';
-    const script = document.createElement('script');
-    script.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
-    script.setAttribute('data-timestamp', +new Date());
-    document.head.appendChild(script);
-  </script>
-  {{ end }}
+  {{ if and site.Config.Services.Disqus.Shortname (not (eq .Params.comments
+    false)) }}
+    <div class="mt-24" id="disqus_thread"></div>
+    <script>
+      const disqusShortname = '{{ site.Config.Services.Disqus.Shortname }}';
+      const script = document.createElement('script');
+      script.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
+      script.setAttribute('data-timestamp', +new Date());
+      document.head.appendChild(script);
+    </script>
+    {{ end }}
 
   <!-- GraphComment -->
   {{ if and site.Params.graphCommentId (not (eq .Params.comments false)) }}
