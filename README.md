@@ -1,5 +1,14 @@
-# UWCC-Website
+# wloocc-website
 
 The official website for the University of Waterloo Climbing Club. 
 
-Based on the [Hugo Paper theme](https://github.com/nanxiaobei/hugo-paper).
+# install
+
+We include the [Hugo Paper theme](https://github.com/nanxiaobei/hugo-paper) as a submodule. To install:
+
+``` shell
+git clone --recurse-submodules https://github.com/wloocc/wloocc-website.git
+```
+
+`
+ 
