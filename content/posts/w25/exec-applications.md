@@ -7,7 +7,7 @@ summary = "Join the wloocc exec team for Winter 2025!"
 
 Hey climbers! Here are the descriptions for each of the exec roles we're hiring for. Please note that the applications close on **January 8**.
 
-Click [here](https://tally.so/r/w4PRzd) to the application form, and click the links below to go to each of the role descriptions!
+Click [here](https://tally.so/r/w4PRzd) to access the application form, and click the links below to go to each of the role descriptions!
 
 - [President](#president)
 - [Events Lead](#events-lead)
@@ -27,7 +27,7 @@ Click [here](https://tally.so/r/w4PRzd) to the application form, and click the l
 
 **Responsibilities:**
 
-- Lead executive team in planning and executing events that align with the club’s mission
+- Lead the executive team in planning and executing events that align with the club’s mission
 - Oversee and coordinate the efforts of the exec team
 - Schedule and run executive meetings to discuss progress, challenges, and make decisions on club matters
 - Provide mentorship and guidance to the executive team, fostering a collaborative and inclusive environment
@@ -40,7 +40,7 @@ Click [here](https://tally.so/r/w4PRzd) to the application form, and click the l
 
 ## **Events Lead**
 
-**Description:** Works closely with President and executive team to bring the club’s vision to life through a variety of climbing-related events. This role requires strong organizational, communication, and creative skills to ensure that the club's events are engaging, safe, and enjoyable for all members.
+**Description:** Works closely with the President and executive team to bring the club’s vision to life through a variety of climbing-related events. This role requires strong organizational, communication, and creative skills to ensure that the club's events are engaging, safe, and enjoyable for all members.
 
 **Commitment:** 5-7 hours per week 
 
@@ -48,7 +48,7 @@ Click [here](https://tally.so/r/w4PRzd) to the application form, and click the l
 
 - Plan, organize, and execute events for club members including but not limited to weekly meetups, workshops, and EoT comp
 - Communicate with external partners and other student organizations for event collaborations
-- Work alongside Design Lead to promote events through social media and other channels
+- Work alongside the Design Lead to promote events through social media and other channels
 - Attend at least 1 of 3 weekly meetups at GRR Waterloo, GRR Kitchener, and/or PAC Wall.
 
 ## **Events Executive**
