@@ -5,7 +5,7 @@ tags = ["w25", "pac", "comps", "events"]
 summary = "Results for the W25 end-of-term climbing competition at the PAC wall!"
 +++
 
-Thank you to everyone that came out to the EOT comp! We hope everyone had fun. Congratulations to the winners in our beginner, intermediate and advanced categories! We'll be contacting you shortly about your well-deserved prizes 🏆.
+Thank you to everyone that came out to the EOT comp! We hope everyone had fun. Congratulations to **Ethan Truong**, **Gavin Roberts**, and **Dawson Shepherd**, the winners in our beginner, intermediate and advanced categories! We'll be contacting you shortly about your well-deserved prizes 🏆.
 
 The full final results are posted below!
 
