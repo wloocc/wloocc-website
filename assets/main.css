@@ -1960,3 +1960,7 @@ img {
 .article-card:hover {
   transform: translateY(-6px);
 }
+
+.no-underline {
+    text-decoration: none;
+}

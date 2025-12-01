@@ -47,19 +47,20 @@
   <!-- news post -->
   {{ $newsPost := index $pages 0}}
   <h1 class="mt-8 mb-4 text-2xl font-bold">News</h2>
-  <section class="my-6">
+
+  <section class="relative my-6 first-of-type:mt-0 last-of-type:mb-0">
+  <a class="inset-0 no-underline" href="{{ $newsPost.Permalink }}">
     <div class="rounded-xl border border-post-bg bg-post-bg p-4 shadow-sm">
-      <h3 class="!my-0 pb-1 font-bold !leading-none" >
-        <a href="{{ $newsPost.Permalink }}" style="text-decoration: none">{{ $newsPost.Title }}</a>
-      </h3>
+      <h3 class="!my-0 pb-1 font-bold !leading-none" >{{ $newsPost.Title }}</h3>
       <time class="text-sm antialiased opacity-60">Posted {{ $newsPost.Date | time.Format ":date_medium" }}</time>
       <div class="opacity-80">
         {{ $newsPost.Summary }}
       </div>
       {{ if $newsPost.Truncated }}
-      <a class="absolute text-sm underlinea !leading-none" href="{{ $newsPost.Permalink }}">Read more →</a>
+      <p class="text-sm !leading-none" style="text-decoration: underline">Read more →</p>
       {{ end }}
     </div>
+  </a>
   </section>
 
   <hr>
@@ -76,13 +77,13 @@
       >Featured</span
                  >
   {{ end }}
-  <div class="article-card rounded-xl border border-post-bg bg-post-bg p-4 shadow-sm">
-    <h2 class="!my-0 pb-1 font-bold !leading-none">{{ .Title }}</h2>
-    <time class="text-sm antialiased opacity-60"
-          >Posted {{ .Date | time.Format ":date_medium" }}</time
-                                                            >
-    <a class="absolute inset-0 text-[0]" href="{{ .Permalink }}">{{ .Title }}</a>
-  </div>
+  <a class="inset-0 no-underline" href="{{ .Permalink }}">
+    <div class="article-card rounded-xl border border-post-bg bg-post-bg p-4 shadow-sm">
+      <h2 class="!my-0 pb-1 font-bold !leading-none">{{ .Title }}</h2>
+      <time class="text-sm antialiased opacity-60"
+            >Posted {{ .Date | time.Format ":date_medium" }}</time>
+    </div>
+  </a>
 </section>
 {{ end }}
 
