@@ -11,6 +11,7 @@
 {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
 {{ end }}
 
+
 <!-- Articles -->
 {{ $paginator := .Paginate $pages }} {{ range $index, $page := $paginator.Pages
 }}<!---->
@@ -18,43 +19,70 @@
 <!-- avatar -->
 {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}<!---->
 
-<div class="-mt-2 mb-16 flex items-center">
-  {{ if site.Params.avatar }}
-  <div
-    class="mr-5"
-  >
-    <img
-      class="my-0 aspect-square w-20"
-      src="{{ site.Params.avatar | absURL }}"
-      alt="{{ site.Params.name | default site.Title }}"
-    />
-  </div>
-  {{ end }}<!---->
-  {{ if site.Params.name }}
-  <div>
-    <h1 class="mb-2 mt-3 text-[1.6rem] font-bold">{{ site.Params.name }}</h1>
-    <div class="break-words">
-      {{ site.Params.bio | default (print `A personal blog by `
-      site.Params.name) }}
+  <div class="-mt-2 mb-16 flex items-center">
+    {{ if site.Params.avatar }}
+    <div
+      class="mr-5"
+    >
+      <img
+        class="my-0 aspect-square w-20"
+        src="{{ site.Params.avatar | absURL }}"
+        alt="{{ site.Params.name | default site.Title }}"
+      />
     </div>
+    {{ end }}<!---->
+    {{ if site.Params.name }}
+    <div>
+      <h1 class="mb-2 mt-3 text-[1.6rem] font-bold">{{ site.Params.name }}</h1>
+      <div class="break-words">
+        {{ site.Params.bio | default (print `A personal blog by `
+        site.Params.name) }}
+      </div>
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
-</div>
+
+  <hr>
+
+  <!-- news post -->
+  {{ $newsPost := index $pages 0}}
+  <h1 class="mt-8 mb-4 text-2xl font-bold">News</h2>
+  <section class="my-6">
+    <div class="rounded-xl border border-post-bg bg-post-bg p-4 shadow-sm">
+      <h3 class="!my-0 pb-1 font-bold !leading-none" >
+        <a href="{{ $newsPost.Permalink }}" style="text-decoration: none">{{ $newsPost.Title }}</a>
+      </h3>
+      <time class="text-sm antialiased opacity-60">Posted {{ $newsPost.Date | time.Format ":date_medium" }}</time>
+      <div class="opacity-80">
+        {{ $newsPost.Summary }}
+      </div>
+      {{ if $newsPost.Truncated }}
+      <a class="absolute text-sm underlinea !leading-none" href="{{ $newsPost.Permalink }}">Read more →</a>
+      {{ end }}
+    </div>
+  </section>
+
+  <hr>
+
+  <h1 class="mt-8 mb-4 text-2xl font-bold">Recent Posts</h2>
 
 {{ end }}
 
+<!-- Recent Posts -->
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   {{ if gt .Weight 0 }}
   <span
-    class="mb-2 ml-px inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70"
-    >Featured</span
-  >
+      class="mb-2 ml-px inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70"
+      >Featured</span
+                 >
   {{ end }}
-  <h2 class="!my-0 pb-1 font-bold !leading-none">{{ .Title }}</h2>
-  <time class="text-sm antialiased opacity-60"
-    >Posted {{ .Date | time.Format ":date_medium" }}</time
-  >
-  <a class="absolute inset-0 text-[0]" href="{{ .Permalink }}">{{ .Title }}</a>
+  <div class="article-card rounded-xl border border-post-bg bg-post-bg p-4 shadow-sm">
+    <h2 class="!my-0 pb-1 font-bold !leading-none">{{ .Title }}</h2>
+    <time class="text-sm antialiased opacity-60"
+          >Posted {{ .Date | time.Format ":date_medium" }}</time
+                                                            >
+    <a class="absolute inset-0 text-[0]" href="{{ .Permalink }}">{{ .Title }}</a>
+  </div>
 </section>
 {{ end }}
 
