@@ -9,8 +9,7 @@ tags = ["f25", "pac", "comps", "events"]
 Thank you to everyone that came out to the EOT comp!
 <!--more-->
 
-We hope everyone had fun. Congratulations to **Dawson Shepherd**, **Keith Lee**, and **Toby Speissegger** for winning the advanced category, **Michael Lam**, **Frank Wang**, and **Connor Zhou** for winning the intermediate category, and **Matthew Regehr**, **Sheryl Chung**, and **Adrian Young** for winning the beginner category! 
-
+We hope everyone had fun. Congratulations to **Dawson Shepherd**, **Keith Lee**, and **Toby Speissegger** for winning the advanced category, **Connor Zhou**, **Kyle Chan**, and **Theone Chen** for winning the intermediate category, and **Matthew Regehr**, **Sheryl Chung**, and **Adrian Young** for winning the beginner category! 
 
 Details about prize pickup will be posted soon 🏆.
 
