@@ -14,4 +14,16 @@ git clone --recurse-submodules https://github.com/wloocc/wloocc-website.git
 ```
 
 # Updating The Website
-Currently, only members with access to the club account on the CSC website can update the website. To get access, am email request must be sent to CSC syscom from the wloocc club email (see [here](https://wiki.csclub.uwaterloo.ca/Club_Hosting#Getting_Hosted) for more details).
+## Requirements
+Currently, only members with access to the club account on the CSC servers can update the website. To get access, am email request must be sent to CSC syscom from the wloocc club email (see [here](https://wiki.csclub.uwaterloo.ca/Club_Hosting#Getting_Hosted) for more details).
+
+## Steps
+To update the site:
+- log into the CSC servers
+- run the following:
+
+```bash
+become_club climbingclub
+cd
+bash update.sh
+```
