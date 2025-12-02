@@ -13,7 +13,7 @@ We hope everyone had fun. Congratulations to **Dawson Shepherd**, **Keith Lee**,
 
 Details about prize pickup will be posted soon 🏆.
 
-Big thank you to MEC, Red Bull, Jarritos, Sweet Lou's, GRR, Tree of Life, and UW Outers Club for all the support for this competition!
+Big thank you to MEC, Red Bull, Jarritos, Sweet Lou's, GRR, Tree of Life, UW Outers Club, Ontario Resoles and Ontario Gear Co for all the support for this competition!
 
 The full final results are posted below.
 
